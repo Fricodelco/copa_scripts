@@ -7,5 +7,8 @@ git pull
 cd ~/copa5/ws/src/coparos
 git restore *
 git pull
+cd ~/copa5/ws/src/sony_photo_pub
+git restore *
+git pull
 cd ~/copa5/ws
 catkin_make
